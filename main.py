@@ -1,4 +1,4 @@
 import funcs
 
 def main():
-    pass
+    print("выполнение кода")
